@@ -36,7 +36,6 @@ Estamos abertos de segunda a sexta-feira, das 9h às 18h. Se precisar entrar em 
 ## Mapa
 
 Aqui está um mapa mostrando a localização exata da Altice em Lisboa:
-
-![Mapa da Localização](https://example.com/mapa-da-localizacao)
+![Mapa de Localización](https://www.google.com/maps/place/40.712776,-74.005974)
 
 Esperamos vê-lo em breve em nossa empresa! Se precisar de mais alguma informação, não hesite em nos contatar.
