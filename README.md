@@ -44,3 +44,11 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 $ npm run start
 $ npm run build
 ```
+
+
+para comvertirlo en pdf seguir los siguentes pasos
+
+para convertir a pdf usar de referencia este ejemplo 
+```
+$ pandoc --toc -o libro1.pdf title.txt ./docs/**/*.md
+```
