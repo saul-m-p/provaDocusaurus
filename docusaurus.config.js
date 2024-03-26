@@ -62,6 +62,7 @@ const config = {
 
   
   plugins: [
+    require.resolve('docusaurus-lunr-search'),
     [
       '@docusaurus/plugin-content-docs',
       {
